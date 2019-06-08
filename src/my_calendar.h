@@ -8,5 +8,6 @@
 #include <stdbool.h>
 
 bool isOddDay();
+int calculateEndDay();
 
 #endif //GOAL_CEEDLING_MY_CALENDAR_H
